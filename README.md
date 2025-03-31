@@ -1,12 +1,11 @@
-# 👋 Hi, I'm Rita Ayaowei
-
-I'm a passionate and detail-oriented cybersecurity professional, currently completing my **Master of Science in Cybersecurity Technology** at the **University of Maryland Global Campus** (Graduating December 2024). I also hold a **Bachelor's in Information Technology** and am **CompTIA Security+ certified**.
+# 👩🏽‍💻 Rita Ayaowei – Cybersecurity PortfolioI 
+recently earned a Master of Science in Cybersecurity Technology from the University of Maryland Global Campus. I also hold a Bachelor's degree in Information Technology and am CompTIA Security+ certified.
+I also hold a Bachelor's in Information Technology** and am *CompTIA Security+ certified*.
 
 With hands-on experience in a Security Operations Center (SOC) and a growing portfolio of projects, I'm actively building my skills in threat detection, vulnerability assessment, and digital forensics.
 
 ---
-
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
 - 🧰 **Tools**: Splunk, Metasploit, Nessus, Autopsy, FTK Imager, EnCase, Kali Linux, Wireshark
 - 💻 **Operating Systems**: Windows, Linux, MacOS
