@@ -1,5 +1,5 @@
-# 👩🏽‍💻 Rita Ayaowei – Cybersecurity PortfolioI 
-recently earned a Master of Science in Cybersecurity Technology from the University of Maryland Global Campus. I also hold a Bachelor's degree in Information Technology and am CompTIA Security+ certified.
+# 👩🏽‍💻 Rita Ayaowei – Cybersecurity Portfolio
+I recently earned a Master of Science in Cybersecurity Technology from the University of Maryland Global Campus. I also hold a Bachelor's degree in Information Technology and am CompTIA Security+ certified.
 I also hold a Bachelor's in Information Technology** and am *CompTIA Security+ certified*.
 
 With hands-on experience in a Security Operations Center (SOC) and a growing portfolio of projects, I'm actively building my skills in threat detection, vulnerability assessment, and digital forensics.
