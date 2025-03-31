@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Rita Ayaowei – Cybersecurity Portfolio
 I recently earned a Master of Science in Cybersecurity Technology from the University of Maryland Global Campus. I also hold a Bachelor's degree in Information Technology and am CompTIA Security+ certified.
-I also hold a Bachelor's in Information Technology** and am *CompTIA Security+ certified*.
+
 
 With hands-on experience in a Security Operations Center (SOC) and a growing portfolio of projects, I'm actively building my skills in threat detection, vulnerability assessment, and digital forensics.
 
@@ -31,7 +31,21 @@ Tool to scan server logs for signs of brute-force login attempts and suspicious 
 ## 🧪 Practical Training
 
 ### 🎓 LabEx Cybersecurity Labs
-- Completed hands-on labs in Active Directory attacks, SIEM monitoring, vulnerability assessments, and incident response.
+-I've completed 23+ hands-on labs on LabEx, focusing on core cybersecurity skills such as:
+
+✅ Cracking Password-Protected User Accounts
+
+✅ Network Scanning with Nmap
+
+✅ Subnet Scanning & Enumeration
+
+🔒 Encryption & Decryption with OpenSSL (in progress)
+
+🛠 Using Netcat for Network Communication
+
+🔍 Decrypting Confidential Data
+
+"Currently progressing toward my next milestone: 50 skills and 5 streaks on LabEx." Completed hands-on labs in Active Directory attacks, SIEM monitoring, vulnerability assessments, and incident response.
 
 ### 🔐 TryHackMe
 - Exploring real-world threat simulations and guided labs to sharpen offensive and defensive techniques.  
@@ -67,7 +81,7 @@ Tool to scan server logs for signs of brute-force login attempts and suspicious 
 - Conduct vulnerability assessments and participate in incident response
 
 **IT Support Analyst**  
-*Wisetek Solutions | Nov 2017 – Dec 2018*  
+*Wisetek Solutions | Nov 2019 – Dec 2022*  
 - Provided technical support to 500+ users  
 - Trained 15 new support analysts  
 - Reduced training costs by 70% through fast-track onboarding
